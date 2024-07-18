@@ -1,0 +1,17 @@
+/* --- Main --- */
+
+/* 进行调整防止给nav压住 */
+main{
+  position:relative;
+  top:5.4rem;
+}
+
+/* 对整个main的container进行调整 */
+main .container{
+  display:grid;
+  position:relative;
+  /* 网格布局竖排快速分开好距离 */
+  grid-template-columns: 18vw auto 20vw;
+  /* 竖排距离2rem */
+  column-gap:2rem;
+}

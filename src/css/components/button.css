@@ -1,0 +1,24 @@
+/* --- Button --- */
+:root {
+  --btn-padding: 0.6rem 2rem;
+  --btn-border-radius: 2rem;
+}
+
+/* btn统一样式 创建*/
+.btn{
+  display:inline-block;
+  padding:var(--btn-padding);
+  font-weight: 500;
+  border-radius:var(--btn-border-radius);
+  cursor:pointer;
+  /* 点击变化的延迟 */
+  transition: all 300ms ease;
+  font-size: 0.9rem;
+
+}
+
+/* button外边样式 */
+.btn-primary{
+  background:var(--color-primary);
+  color:var(--color-white);
+}

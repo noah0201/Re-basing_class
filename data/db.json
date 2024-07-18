@@ -1,0 +1,272 @@
+{
+  "profile": {
+    "name": "ALLEN LJK",
+    "at": "@b站吃个小Allen",
+    "img_src": "/images/profile/profile_1.jpeg"
+  },
+  "sidebar": [
+    {
+      "id": 1,
+      "name": "主页",
+      "icon_class_list": [
+        "uil",
+        "uil-house-user"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "拓展",
+      "icon_class_list": [
+        "uil",
+        "uil-compass"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "消息提醒",
+      "icon_class_list": [
+        "uil",
+        "uil-bell"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "msg",
+      "icon_class_list": [
+        "uil",
+        "uil-envelope-alt"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "书签",
+      "icon_class_list": [
+        "uil",
+        "uil-bookmark"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "数据分析",
+      "icon_class_list": [
+        "uil",
+        "uil-chart-line"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "主题",
+      "icon_class_list": [
+        "uil",
+        "uil-palette"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "设置",
+      "icon_class_list": [
+        "uil",
+        "uil-setting"
+      ]
+    }
+  ],
+  "highline": [
+    {
+      "id": 1,
+      "title": "关于你",
+      "background": "/images/highline/highline_1.jpeg",
+      "img_src": "/images/profile/profile_2.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "今日推荐",
+      "background": "/images/highline/highline_2.jpeg",
+      "img_src": "/images/profile/profile_2.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "你的心情",
+      "background": "/images/highline/highline_3.jpeg",
+      "img_src": "/images/profile/profile_2.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "今日选择",
+      "background": "/images/highline/highline_4.jpeg",
+      "img_src": "/images/profile/profile_3.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "今日心情",
+      "background": "/images/highline/highline_5.jpeg",
+      "img_src": "/images/profile/profile_2.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "你的喜好",
+      "background": "/images/highline/highline_6.jpeg",
+      "img_src": "/images/profile/profile_1.jpeg"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "profile": {
+        "src": "/images/profile/profile_2.jpeg",
+        "name": "kkk",
+        "position": "Guangzhou",
+        "time": "15分钟前"
+      },
+      "picture": {
+        "img_src": "/images/post/post_1.jpeg"
+      },
+      "comment": {
+        "img_src_list": [
+          "/images/profile/profile_1.jpeg",
+          "/images/profile/profile_2.jpeg"
+        ],
+        "first_people_name": "xxx",
+        "like_peoples_number": 2000,
+        "comment_info": "今日份快乐 #生活",
+        "view_number": 2000
+      }
+    },
+    {
+      "id": 2,
+      "profile": {
+        "src": "/images/profile/profile_3.jpeg",
+        "name": "Allen",
+        "position": "Guangzhou",
+        "time": "15分钟前"
+      },
+      "picture": {
+        "img_src": "/images/post/post_2.jpeg"
+      },
+      "comment": {
+        "img_src_list": [
+          "/images/profile/profile_1.jpeg",
+          "/images/profile/profile_2.jpeg"
+        ],
+        "first_people_name": "Raymond",
+        "like_peoples_number": 2333,
+        "comment_info": "今日启发 #感悟",
+        "view_number": 3000
+      }
+    },
+    {
+      "id": 3,
+      "profile": {
+        "src": "/images/profile/profile_3.jpeg",
+        "name": "Raymond",
+        "position": "Guangzhou",
+        "time": "15分钟前"
+      },
+      "picture": {
+        "img_src": "/images/post/post_3.jpeg"
+      },
+      "comment": {
+        "img_src_list": [
+          "/images/profile/profile_1.jpeg",
+          "/images/profile/profile_2.jpeg"
+        ],
+        "first_people_name": "oooo",
+        "like_peoples_number": 333,
+        "comment_info": "今日训练 #沉淀",
+        "view_number": 3473
+      }
+    },
+    {
+      "id": 4,
+      "profile": {
+        "src": "/images/profile/profile_1.jpeg",
+        "name": "rose",
+        "position": "Guangzhou",
+        "time": "15分钟前"
+      },
+      "picture": {
+        "img_src": "/images/post/post_3.jpeg"
+      },
+      "comment": {
+        "img_src_list": [
+          "/images/profile/profile_1.jpeg",
+          "/images/profile/profile_2.jpeg"
+        ],
+        "first_people_name": "aaaa",
+        "like_peoples_number": 3333,
+        "comment_info": "。。。。. #忧郁",
+        "view_number": 2222
+      }
+    },
+    {
+      "id": 5,
+      "profile": {
+        "src": "/images/profile/profile_1.jpeg",
+        "name": "lll",
+        "position": "Guangzhou",
+        "time": "15分钟前"
+      },
+      "picture": {
+        "img_src": "/images/post/post_2.jpeg"
+      },
+      "comment": {
+        "img_src_list": [
+          "/images/profile/profile_1.jpeg",
+          "/images/profile/profile_2.jpeg"
+
+        ],
+        "first_people_name": "qqqq",
+        "like_peoples_number": 2323,
+        "comment_info": "xxxx. #lifestyle",
+        "view_number": 3473
+      }
+    }
+  ],
+  "message": [
+    {
+      "id": 1,
+      "src": "/images/profile/profile_1.jpeg",
+
+      "name": "kkl lin",
+      "msg": "好久不见"
+    },
+    {
+      "id": 2,
+      "src": "/images/profile/profile_1.jpeg",
+      "name": "Rose",
+      "msg": "生日快乐"
+    },
+    {
+      "id": 3,
+      "src": "/images/profile/profile_1.jpeg",
+      "name": "james",
+      "msg": "上号！！"
+    },
+    {
+      "id": 4,
+      "src": "/images/profile/profile_1.jpeg",
+      "name": "Emily",
+      "msg": "原神启动!!"
+    },
+    {
+      "id": 5,
+      "src": "/images/profile/profile_1.jpeg",
+      "name": "Alex",
+      "msg": "b站搜索小Allen"
+    }
+  ],
+  "request": [
+    {
+      "id": 1,
+      "src": "/images/profile/profile_1.jpeg",
+      "name": "Allen",
+      "mutualFriendNum": 8
+    },
+    {
+      "id": 2,
+      "src": "/images/profile/profile_2.jpeg",
+      "name": "mike",
+      "mutualFriendNum": 19
+    }
+  ]
+}
+

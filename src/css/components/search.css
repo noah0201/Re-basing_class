@@ -1,0 +1,27 @@
+/* --- Search --- */
+/* 整个Nav Search  */
+.search-bar{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  background:var(--color-white);
+  padding:0.7rem 2rem;
+  border-radius: 2rem;
+}
+
+/* nav的search里的input做个统一样式 */
+.search-bar input[type="search"]{
+  /* 透明 */
+  background:transparent;
+  width:30vw;
+  max-width:500px;
+  margin-left:1rem;
+  font-size:0.9rem;
+  color:var(--color-black);
+}
+
+/* input框里面的placeholder属性的样式设置 */
+.search-bar input[type="search"]::placeholder{
+  color:(--color-gray);
+  font-style:italic;
+}

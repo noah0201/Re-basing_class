@@ -1,0 +1,30 @@
+/* 设置宽屏窄屏设置 */
+@media (1000px <= width <= 1200px){
+  /* 隐藏左边 */
+  .main-left{
+    display:none;
+  }
+
+  main .container{
+    grid-template-columns:auto 30vw;
+  }
+}
+
+/* 小于1000px隐藏main-left和main-right */
+@media (width < 1000px){
+  .main-left{
+    display:none;
+  }
+
+  nav .btn{
+    display:none;
+  }
+
+  .main-right{
+    display:none;
+  }
+
+  main .container{
+    grid-template-columns:auto;
+  }
+}
